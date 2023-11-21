@@ -7,5 +7,5 @@ A todo app
 
 [!IMPORTANT]
 Applied useContext to manage state and useRef to refocus after clicking Add button. 
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
+ [!IMPORTANT]
+ Crucial information necessary for users to succeed.
