@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <TodoContext.Provider value={{ todos, setTodos }}>
-        <TodoHeader />
+        <TodoHeader headerContent={"Shopping List"} />
         <TodoInput />
         <TodoList />
       </TodoContext.Provider>
