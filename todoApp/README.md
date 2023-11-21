@@ -1,5 +1,6 @@
 # Todo list application
 A todo app 
+
 1.hit Add button to add an item into list
 
 2.double click an item to alter its isCompleted state
