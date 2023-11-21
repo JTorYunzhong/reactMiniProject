@@ -5,4 +5,5 @@ A todo app
 1.hit Delete button to delete an item from the list.
 
 
-Note: applied useContext to manage state, useRef to refocus after clicking Add button. 
+[!IMPORTANT]
+Applied useContext to manage state and useRef to refocus after clicking Add button. 
