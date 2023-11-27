@@ -27,7 +27,7 @@ export default function App() {
     { field: values.numbers, getChar: () => getRandomChar(48, 57) },
     {
       field: values.spercialCharacters,
-      getChar: () => getSpecialChar,
+      getChar: () => getSpecialChar(),
     },
   ];
 
